@@ -1,5 +1,3 @@
-
-<iframe src="https://giphy.com/embed/HK1hAnDfVDWwNDFSUx" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cruelsummer-ff-freeform-cruel-summer-HK1hAnDfVDWwNDFSUx">via GIPHY</a></p>
 - 👋 Hi,I am just a curious person 
 - 👀 I'm interested in anything related about Cybersecurity
 - 🌱 I’m currently learning Red teaming, Pentration testing , Exploit Development 
