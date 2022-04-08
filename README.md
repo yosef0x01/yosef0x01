@@ -1,6 +1,5 @@
 <p align="center">
-  <br>
-  <samp>
+  <br><samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://yosef0x01.github.io/">Youssef Muhammaed</a></b>.
     <br>I'm a Cyber security researcher.<br>
 
